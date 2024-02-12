@@ -14,7 +14,7 @@
     - Si un número es positivo o negativo
     - Si un número es múltiplo de otro 
     - Si un número es menor que otro
-Todos los números serán pasados como parámetro
+    - Ojo: Todos los números serán pasados como parámetro
 
 6. Crear un programa que indique, en base al mes actual, la estación del año en la que nos encontramos
 
